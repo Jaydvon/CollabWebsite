@@ -1,0 +1,10 @@
+Command	What it does
+git status	See changed files and current branch
+git add .	Stage all changes in the current directory
+git add filename	Stage one specific file
+git commit -m "message"	Save your staged changes
+git push	Upload commits to GitHub
+git pull	Download and integrate changes from GitHub
+git fetch	Check for remote changes without merging
+git log --oneline	View commit history
+git diff	See unstaged code changes
